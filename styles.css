@@ -11,7 +11,7 @@ body {
 	font-family: sans-serif;
 	font-size: 16px;
 	font-weight: normal;
-	line-height: 1.5;
+	line-height: 2.5;
 	color: #fefefe;	
 	position: relative;
 	overflow-x: hidden;
@@ -31,7 +31,7 @@ img {
 	margin: 0 auto;
 }
 header:hover{
-    background-color: black;
+    background-color: blue;
     filter: invert(1);
 }
 a {	
@@ -70,7 +70,7 @@ a {
 	font-weight: 700;
 	letter-spacing: 3px;
 	text-transform: uppercase;
-	color: #FFD173;
+	color: #73d7ff;
 	cursor: pointer;
 }
 
@@ -78,7 +78,7 @@ a {
 	display: inline-block;
 	width: 8px;
 	height: 8px;
-	background: #FFD173;
+	background: #73eaff;
 	border-radius: 15px;
 	margin-left: 5px;
 }
@@ -103,7 +103,7 @@ a {
 }
 
 .hero header nav ul li a:hover {
-	color: #FFD173;
+	color: #73f3ff;
 }
 
 .hero header nav ul li.action a {
